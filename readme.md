@@ -25,32 +25,12 @@ The Real-Time Face Recognition WebCam project aims to leverage modern machine le
    - Information such as age, gender, and recognition status is shown on the screen.
 10. **End**
 
-## Future Scope
-
-1. **Enhanced Accuracy**:
-   - Integrate more advanced face recognition models and techniques to improve accuracy and reliability.
-   
-2. **Multi-Face Recognition**:
-   - Extend functionality to handle multiple faces in the video feed and match them against multiple reference images.
-
-3. **Real-Time Alerts**:
-   - Implement real-time alerts and notifications based on recognition results, such as notifications for unauthorized access.
-
-4. **Mobile Compatibility**:
-   - Optimize the application for mobile devices to ensure a consistent experience across different platforms.
-
-5. **User Management**:
-   - Develop a user management system to handle multiple users and their respective reference images.
-
-6. **Performance Optimization**:
-   - Improve performance and reduce latency to provide smoother real-time face recognition.
-
 ## Contact
 
 For any questions or feedback, please feel free to reach out:
 
 - **Name**: [Montu Kumar]
-- **Email**: [krxmontu@gmail.com]
+- **Email**: [krxmontu@gmail.com](krxmontu@gmail.com)
 - **GitHub**: [https://github.com/krxmontu](https://github.com/krxmontu)
 
 Thank you for checking out the Real-Time Face Recognition WebCam project.
