@@ -29,7 +29,7 @@ The Real-Time Face Recognition WebCam project aims to leverage modern machine le
 
 For any questions or feedback, please feel free to reach out:
 
-- **Name**: [Montu Kumar]
+- **Name**: Montu Kumar
 - **Email**: [krxmontu@gmail.com](krxmontu@gmail.com)
 - **GitHub**: [https://github.com/krxmontu](https://github.com/krxmontu)
 
