@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Face Recognition</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        Real-Time Face Recognition
+    </header>
+
+    <main>
+        <div id="upload-section">
+            <label for="imageUpload">Upload Reference Image</label>
+            <input type="file" id="imageUpload" accept=".jpg, .jpeg, .png" />
+            <div id="loadingText">Loading...</div>
+            <div id="imageInfo"></div>
+        </div>
+
+        <div id="container">
+            <video id="video-feed" height="560" width="720" autoplay></video>
+            <canvas id="canvas"></canvas>
+        </div>
+    </main>
+
+    <footer>
+        © 2024 Face Recognition App. All rights reserved.
+    </footer>
+
+    <script src="./face-api.min.js"></script>
+    <script src="./scripts.js"></script>
+
+</body>
+
+</html>
